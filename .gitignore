@@ -1,0 +1,25 @@
+# Keil / MDK generated files
+Objects/
+Listings/
+DebugConfig/
+output/
+*.axf
+*.bin
+*.hex
+*.elf
+*.map
+*.crf
+*.o
+*.dep
+*.htm
+*.html
+*.uvoptx
+*.uvguix.*
+
+# Editor / system files
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.bak
+
